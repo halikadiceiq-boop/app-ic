@@ -1,0 +1,36 @@
+{
+  "fileKey": "QORWLtDI3vWDD8tAIHe0yE",
+  "sourceNodeId": "10197:1534",
+  "styles": {
+    "Neutral/grey-vail-12": "#1F1F1F",
+    "Headlines/Headline 1": "Font(family: \"Gotham\", style: Medium, size: 26, weight: 500, lineHeight: 32, letterSpacing: 0)",
+    "Headlines/Headline 2": "Font(family: \"Gotham\", style: Medium, size: 23, weight: 500, lineHeight: 28, letterSpacing: 0)",
+    "Headlines/Headline 3": "Font(family: \"Gotham\", style: Medium, size: 20, weight: 500, lineHeight: 25, letterSpacing: 0)",
+    "Headlines/Headline 4": "Font(family: \"Gotham\", style: Medium, size: 18, weight: 500, lineHeight: 22, letterSpacing: 0)",
+    "Headlines/Headline 5": "Font(family: \"Gotham\", style: Medium, size: 16, weight: 500, lineHeight: 20, letterSpacing: 0)",
+    "Headlines/Headline 6": "Font(family: \"Gotham\", style: Medium, size: 14, weight: 500, lineHeight: 18, letterSpacing: 0)",
+    "Primary/DutchBlue/primary-7": "#4176D8",
+    "Label 3": "Font(family: \"Gotham\", style: Book, size: 14, weight: 400, lineHeight: 13, letterSpacing: 0)",
+    "Neutral/grey-elephant-9": "#666666",
+    "Body/X Large/Body > Regular": "Font(family: \"Gotham\", style: Book, size: 16, weight: 400, lineHeight: 22, letterSpacing: 0)",
+    "Body/Large/Body > Regular": "Font(family: \"Gotham\", style: Book, size: 14, weight: 400, lineHeight: 18, letterSpacing: 0)",
+    "Body/Small/Body > Regular": "Font(family: \"Gotham\", style: Book, size: 12, weight: 400, lineHeight: 14, letterSpacing: 0)"
+  },
+  "mappedTextStyleNames": [
+    "Headlines/Headline 1",
+    "Headlines/Headline 2",
+    "Headlines/Headline 3",
+    "Headlines/Headline 4",
+    "Headlines/Headline 5",
+    "Headlines/Headline 6",
+    "Body/X Large/Body > Regular",
+    "Body/Large/Body > Regular",
+    "Body/Small/Body > Regular",
+    "Label 3"
+  ],
+  "unmappedNonTypographyStyles": [
+    "Neutral/grey-vail-12",
+    "Primary/DutchBlue/primary-7",
+    "Neutral/grey-elephant-9"
+  ]
+}
